@@ -1,0 +1,9 @@
+d:\users\nico\documents\visual studio 2015\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.exe.config
+d:\users\nico\documents\visual studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+d:\users\nico\documents\visual studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.Cache
+d:\users\nico\documents\visual studio 2015\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+d:\users\nico\documents\visual studio 2015\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+d:\users\nico\documents\visual studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+d:\users\nico\documents\visual studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+D:\Users\Nico\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.csprojResolveAssemblyReference.cache
+D:\Users\Nico\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.SendEmail.resources

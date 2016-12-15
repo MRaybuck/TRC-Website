@@ -1,0 +1,9 @@
+d:\users\nico\documents\visual studio 2015\Projects\formulaire\formulaire\bin\Debug\formulaire.exe.config
+d:\users\nico\documents\visual studio 2015\Projects\formulaire\formulaire\bin\Debug\formulaire.exe
+d:\users\nico\documents\visual studio 2015\Projects\formulaire\formulaire\bin\Debug\formulaire.pdb
+d:\users\nico\documents\visual studio 2015\Projects\formulaire\formulaire\obj\Debug\formulaire.csprojResolveAssemblyReference.cache
+d:\users\nico\documents\visual studio 2015\Projects\formulaire\formulaire\obj\Debug\formulaire.Inscription.resources
+d:\users\nico\documents\visual studio 2015\Projects\formulaire\formulaire\obj\Debug\formulaire.Properties.Resources.resources
+d:\users\nico\documents\visual studio 2015\Projects\formulaire\formulaire\obj\Debug\formulaire.csproj.GenerateResource.Cache
+d:\users\nico\documents\visual studio 2015\Projects\formulaire\formulaire\obj\Debug\formulaire.exe
+d:\users\nico\documents\visual studio 2015\Projects\formulaire\formulaire\obj\Debug\formulaire.pdb

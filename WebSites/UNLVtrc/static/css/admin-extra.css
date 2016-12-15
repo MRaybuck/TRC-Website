@@ -1,0 +1,15 @@
+#header {
+    background: #B10202;
+}
+
+.module h2, .module caption, .inline-group h2 {
+    background: #666666;
+}
+
+#branding h1, #branding h1 a:link, #branding h1 a:visited {
+    color: #E9E9DE;
+}
+
+div.breadcrumbs {
+    background: #666666;
+}
